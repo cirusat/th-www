@@ -1,0 +1,60 @@
+﻿body 
+{
+	background-image: url("tlo.jpg");
+	background-repeat: no-repeat;
+	font-family: arial;
+	font-size: 14px;
+	color: black;
+}
+a:link
+{
+	color: black;
+	text-decoration: none;
+}
+a:visited
+{
+	color: black;
+	text-decoration: none;
+}
+a:hover
+{
+		color: black;
+		text-decoration: none;
+}
+#container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#zero
+{
+	width: 1000px;
+	height: 600px;
+}
+#one
+{
+	float: left;
+	width: 250px;
+	height: 600px;
+	text-align: center;
+	margin-top: 500ppx;
+}
+#two
+{
+	float: left;
+	width: 250px;
+	text-align: center;
+}
+#three
+{
+	float: left;
+	width: 250px;
+	text-align: center;
+}
+#four
+{
+	float: left;
+	width: 250px;
+	text-align: center;
+}
