@@ -1,6 +1,7 @@
 ﻿body 
 {
 	background-image: url("tlo.jpg");
+	background-position: right;
 	background-repeat: no-repeat;
 	font-family: arial;
 	font-size: 14px;
@@ -30,31 +31,33 @@ a:hover
 #zero
 {
 	width: 1000px;
-	height: 600px;
+	height: 550px;
 }
 #one
 {
 	float: left;
 	width: 250px;
-	height: 600px;
-	text-align: center;
-	margin-top: 500ppx;
+	height: 40px;
+	text-align: left;
 }
 #two
 {
 	float: left;
 	width: 250px;
-	text-align: center;
+	height: 40px;
+	text-align: left;
 }
 #three
 {
 	float: left;
 	width: 250px;
+	height: 40px;
 	text-align: center;
 }
 #four
 {
 	float: left;
 	width: 250px;
-	text-align: center;
+	height: 40px;
+	text-align: right;
 }
